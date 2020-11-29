@@ -1,5 +1,5 @@
 # bootstrap
 
 ```bash
-/bin/bash -c "$(https://raw.githubusercontent.com/despiegk/bootstrap/main/install.sh)"
+apt install curl -y && /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/despiegk/bootstrap/main/install.sh)"
 ```
